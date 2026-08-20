@@ -3,7 +3,7 @@ import telebot
 import requests
 import time
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7974047848:AAGKJ4JHTEkz-9Q0T28z1yJSo5v4X6dJbOs")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "AAHWN2udhbkUAIS93EGraArVtnuOq9SM7No")
 SE_USER = "783342603"
 SE_SECRET = "v8QfZt3yPqLmKjNhX2bD9cR4aW1eU0oI"
 
