@@ -1,7 +1,7 @@
 import os, requests
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-SE_USER = os.getenv("SIGHTENGINE_USER")
-SE_SECRET = os.getenv("SIGHTENGINE_SECRET")
+BOT_TOKEN = os.getenv("8793010895:AAFH2oWbqU_qcLdI0bZV6NeaJMimRrV13Sw")
+SE_USER = os.getenv("783342603")
+SE_SECRET = os.getenv("iLwAvFrBJuuZar9E7v9KwHvJaHc2LSCw")
 
 def check_image_ai(img_bytes: bytes) -> bool:
     if not SE_USER or not SE_SECRET:
